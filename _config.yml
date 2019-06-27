@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 2238187567@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, JS, Node"
-url: "http://mengmengwu.github.io"          # your host, for absolute URL
+url: "http://wumengmeng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/wumengmeng/mengmengwu.github.io.git" # you code repository
+github_repo: "https://github.com/wumengmeng/wumengmeng.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
